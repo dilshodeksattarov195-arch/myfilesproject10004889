@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailuelete",
+        "uuid": 12672288,
+        "checksum": "wwrhfm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
